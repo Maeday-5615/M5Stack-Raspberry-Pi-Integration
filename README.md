@@ -18,6 +18,7 @@ What you'll need:
 https://shop.m5stack.com/products/face?variant=17290437623898
 https://www.raspberrypi.com/products/raspberry-pi-zero/ or https://www.raspberrypi.com/products/raspberry-pi-zero-w/
 https://shop.m5stack.com/products/proto-module?variant=16804775198810
+https://downloads.raspberrypi.org/raspbian/images/raspbian-2018-03-14/2018-03-13-raspbian-stretch.zip
 -A soldering iron + solder
 -Wire
 -Electrical tape or some other form of sticking down the raspberry pi
@@ -44,7 +45,7 @@ Steps:
 -Solder the 5v wire to the 5v pin on the Raspberry Pi's gpio port, GND to GND, M5Stack 16 to RPi GPIO 14 and M5Stack 17 to RPi GPIO 15 (as in Yama-chan's video)
 -Flip the raspberry pi over and use whatever method you'd like to stick it to the prototype board(I used electrical tape to get a solid stick and no shorting)
 -Flash rasbian onto the Raspberry Pi's sd card (I will include the appropriate version)
--Modify the config.txt and cmdline.txt files found in the boot partition that shows up on the sd card (I will include pictures)
+-Modify the config.txt and cmdline.txt files found in the boot partition that shows up on the sd card (I will include the files, however only copy the cmdline.txt settings not the PARTUUID, replace "root=PARTUUID=43db0a89-02" with the one originally found on your cmdline.txt file)
 -Use Arduino IDE to flash the M5StackRPi.ino file to the M5Stack
 -You should be done!
 PLEASE NOTE that I am extremely new to C++ and therefore the code will not be as clean or as bug-free as you may expect, I learned the majority
