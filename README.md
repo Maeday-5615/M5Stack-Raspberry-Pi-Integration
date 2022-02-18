@@ -72,17 +72,21 @@ whatever needs you may have.
 
 
 ![20220218_212145](https://user-images.githubusercontent.com/61987723/154763051-81be25ae-e026-4ffa-b7c3-b98ae51bdc33.jpg)
+
 The finished product
 
 ![20220218_203458](https://user-images.githubusercontent.com/61987723/154763118-642bedb1-31cd-4c00-9ef9-e5ce7add5312.jpg)
 ![20220214_210007](https://user-images.githubusercontent.com/61987723/154763138-4bcacc8f-bcc6-4815-9fcd-f1aaed739dde.jpg)
-Wiring, I suggest you do something similar when wiring up your own so as to prevent wires being damaged
+
+Wiring, I suggest you do something similar when wiring up your own so as to prevent wires being damaged or pulled
 
 
 ![gpiopinsv3withpi](https://user-images.githubusercontent.com/61987723/154765700-0bad4017-3975-4694-b438-6a9d1a743d57.png)
+
 RPi GPIO pinout
 
 ![1584654528449-m-gpio](https://user-images.githubusercontent.com/61987723/154765763-8d1b805f-4202-44ab-8c88-993ad93f13d2.png)
+
 M5Stack GPIO pinout
 
 
