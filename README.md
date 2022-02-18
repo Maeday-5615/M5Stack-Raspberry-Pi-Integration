@@ -3,10 +3,17 @@ A complete method by which to integrate a Raspberry Pi Zero/ Zero W with an M5St
 
 
 Sources of code used:
-https://github.com/m5stack/M5Stack/blob/master/examples/Advanced/Display/TFT_Terminal/TFT_Terminal.ino (Terminal/ Serial communication)
-https://github.com/m5stack/M5Stack/blob/master/examples/Basics/Display/Display.ino (Display)
-https://github.com/m5stack/FACES-Firmware/blob/master/KeyBoard.ino (Keyboard)
-https://github.com/Bodmer/TFT_eSPI (Display features)
+https://github.com/m5stack/M5Stack/blob/master/examples/Advanced/Display/TFT_Terminal/TFT_Terminal.ino 
+(Terminal/ Serial communication)
+
+https://github.com/m5stack/M5Stack/blob/master/examples/Basics/Display/Display.ino 
+(Display)
+
+https://github.com/m5stack/FACES-Firmware/blob/master/KeyBoard.ino 
+(Keyboard)
+
+https://github.com/Bodmer/TFT_eSPI 
+(Display features)
 
 Source of original guide (Yama-chan):
 https://www.youtube.com/watch?v=uOhBxapBLj4
